@@ -736,7 +736,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/about-bg.jpg") center center;
+  background: url("../img/pexels-chait-goli-2093323.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -1038,7 +1038,7 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(../img/events-bg.jpg) center center no-repeat;
+  background: url(../img/pexels-ljupco-dzambazovski-1346132.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
 }
